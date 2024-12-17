@@ -1,4 +1,4 @@
-# Introduction-_to_python
+# Introduction_to_python
 Some codes were written in a bid to understand my python learnings.
 Folders which contain subfiles with a text file were used as a basis to extract data.
 
